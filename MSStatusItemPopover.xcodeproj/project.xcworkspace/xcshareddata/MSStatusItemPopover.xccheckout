@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50315093-C9BD-45FE-9240-E72927CDBA96</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MSStatusItemPopover</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6DCC4C67DF608DEF228B3D86ADE980B95B4D1996</key>
+		<string>github.com:Marmaladesoul/MSStatusItemPopover.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MSStatusItemPopover.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6DCC4C67DF608DEF228B3D86ADE980B95B4D1996</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Marmaladesoul/MSStatusItemPopover.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6DCC4C67DF608DEF228B3D86ADE980B95B4D1996</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6DCC4C67DF608DEF228B3D86ADE980B95B4D1996</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MSStatusItemPopover</string>
+		</dict>
+	</array>
+</dict>
+</plist>
