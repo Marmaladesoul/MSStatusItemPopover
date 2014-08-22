@@ -11,6 +11,8 @@ import Cocoa
 class AppDelegate: NSObject, NSApplicationDelegate {
                             
     @IBOutlet weak var window: NSWindow!
+    
+    var statusView = MSStatusItemPopover()
 
 
     func applicationDidFinishLaunching(aNotification: NSNotification?) {
@@ -21,6 +23,14 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Insert code here to tear down your application
     }
 
+    @IBAction func showPopover(sender: AnyObject) {
+        let popoverView = PopoverContentViewController(nibName: "PopoverContentViewController", bundle: nil)
+        statusView.showPopoverWithViewController(popoverView)
+    }
+    
+    @IBAction func hidePopover(sender: AnyObject) {
+        statusView.hidePopover()
+    }
 
 }
 

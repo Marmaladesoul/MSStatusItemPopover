@@ -82,11 +82,11 @@
 			isa = PBXGroup;
 			children = (
 				6F5C3B7219A7430C00E57962 /* AppDelegate.swift */,
+				6F5C3B7619A7430C00E57962 /* MainMenu.xib */,
 				6F5C3B8D19A7449700E57962 /* PopoverContentViewController.swift */,
 				6F5C3B8E19A7449700E57962 /* PopoverContentViewController.xib */,
 				6F5C3B9119A746D500E57962 /* MSStatusItemPopover.swift */,
 				6F5C3B7419A7430C00E57962 /* Images.xcassets */,
-				6F5C3B7619A7430C00E57962 /* MainMenu.xib */,
 				6F5C3B6E19A7430C00E57962 /* Supporting Files */,
 			);
 			path = MSStatusItemPopover;
