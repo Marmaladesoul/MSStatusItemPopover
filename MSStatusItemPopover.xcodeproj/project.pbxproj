@@ -14,6 +14,7 @@
 		6F5C3B8419A7430C00E57962 /* MSStatusItemPopoverTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5C3B8319A7430C00E57962 /* MSStatusItemPopoverTests.swift */; };
 		6F5C3B8F19A7449700E57962 /* PopoverContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5C3B8D19A7449700E57962 /* PopoverContentViewController.swift */; };
 		6F5C3B9019A7449700E57962 /* PopoverContentViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F5C3B8E19A7449700E57962 /* PopoverContentViewController.xib */; };
+		6F5C3B9219A746D500E57962 /* MSStatusItemPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5C3B9119A746D500E57962 /* MSStatusItemPopover.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		6F5C3B8319A7430C00E57962 /* MSStatusItemPopoverTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MSStatusItemPopoverTests.swift; sourceTree = "<group>"; };
 		6F5C3B8D19A7449700E57962 /* PopoverContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopoverContentViewController.swift; sourceTree = "<group>"; };
 		6F5C3B8E19A7449700E57962 /* PopoverContentViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopoverContentViewController.xib; sourceTree = "<group>"; };
+		6F5C3B9119A746D500E57962 /* MSStatusItemPopover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MSStatusItemPopover.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				6F5C3B7219A7430C00E57962 /* AppDelegate.swift */,
 				6F5C3B8D19A7449700E57962 /* PopoverContentViewController.swift */,
 				6F5C3B8E19A7449700E57962 /* PopoverContentViewController.xib */,
+				6F5C3B9119A746D500E57962 /* MSStatusItemPopover.swift */,
 				6F5C3B7419A7430C00E57962 /* Images.xcassets */,
 				6F5C3B7619A7430C00E57962 /* MainMenu.xib */,
 				6F5C3B6E19A7430C00E57962 /* Supporting Files */,
@@ -217,6 +220,7 @@
 			files = (
 				6F5C3B8F19A7449700E57962 /* PopoverContentViewController.swift in Sources */,
 				6F5C3B7319A7430C00E57962 /* AppDelegate.swift in Sources */,
+				6F5C3B9219A746D500E57962 /* MSStatusItemPopover.swift in Sources */,
 				6F5C3B7119A7430C00E57962 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
